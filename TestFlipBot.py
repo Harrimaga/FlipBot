@@ -12,7 +12,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import twitter
 
-#twitterApi = twitter.Api(consumer_key="TwXavQWfz3alqnv4kjfqMU3mu", consumer_secret="f8UkW5GqEYn2FXLAVGaXOH1V3jGNT9eidCYmzcNa5bh2t5KXlQ", access_token_key="1154545443721924609-3HTv7UFHlbuIL2O04KfzT4sLBs413v", access_token_secret="4QAJP9PRcU9V4iRyJKRAT2Sj5U5hi6cP1iVLn0a1ohv20")
+#twitterApi = twitter.Api(consumer_key="---", consumer_secret="---", access_token_key="---", access_token_secret="---")
 
 ## TODO: Gspread
 
